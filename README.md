@@ -21,7 +21,7 @@ The easiest way to use the app out of the box is to provide a *public* Google Sh
 
 ### Setting up your data
 
-You need to make your data public in a form we can digest.
+You need not make your data public in a form we can digest.
 
 Create a Google Sheet. Give it at least the below column headers, and put in the content that you want:
 
